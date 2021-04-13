@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Divyangi Singh
+- 👀 I’m interested in Full Stack Development with JS backgroud
+- 🌱 I’m currently working in Angular , React and NodeJS and exploring related skills.
